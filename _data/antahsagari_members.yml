@@ -1,10 +1,45 @@
 - name: Sri Harsha Vadathya
   role: Project Member, Antahsagari
   dept: EEE
-  project: Arle
+  project: Antahsagari
   team: Control, ROS & Design
   img: https://avatars1.githubusercontent.com/u/39313541?s=460&v=4
-  github: Rohit3475
-  bio: Afzal Ahmad is a seniour undergraduate in EEE Department, pursing interest in robotics mainly in swarm robotics.
+  github: HARSHA1522
+  bio: Harsha is a Sophomore in EEE Department, pursuing intrests in Electronics and Robotics.
   url: https://afzalhmd14.github.io 
   visible: true
+  
+- name: Arun V Kammath
+  role: Project Leader, Antahsagari
+  dept: Mechanical
+  project: Antahsagari
+  team: Control, Design, Mechanics
+  img: https://scontent-bom1-2.xx.fbcdn.net/v/t1.0-9/51403762_2232941356972849_5976313156908089344_n.jpg?_nc_cat=108&_nc_eui2=AeFzVQXyWpZav1r3maInye-NW4mf8Lfu6IQxaLQyjfdGaZ_-9WhKjHEzPHKew9yGEDCFMnnp6LbdXzblBhOlYlVgP_oVRE5caEXxW8q6gSn-iw&_nc_ht=scontent-bom1-2.xx&oh=8bd77a9c412ee80d4ddd662b1488b16d&oe=5D05B39F
+  github: ArunKammath
+  bio: Arun V Kammath is a seniour undergraduate in Mechanical Department, pursing interest in Control Systems.
+  url: https://afzalhmd14.github.io 
+  visible: true
+  
+- name: Deepak Kumar Gouda
+  role: Project Leader, Antahsagari
+  dept: EEE
+  project: Antahsagari
+  team: Machine Learning, Coding
+  img: https://scontent-bom1-2.xx.fbcdn.net/v/t1.0-9/46132860_509711866175155_6966268660113473536_n.jpg?_nc_cat=107&_nc_eui2=AeFhvsoxsUPoQfCAoHz7gVX0Z-Kie3hEnE_kV5_8CMQiuYng81fkTHcY29lZ_FFl5kAy-kPH6DiVZPbPsfoo_whgfAnkyab_GSOpMbMED4H1lg&_nc_ht=scontent-bom1-2.xx&oh=f76d2f0c5980468d63843ad93b17e4e3&oe=5D0E9B02
+  github: DeepakGouda
+  bio: Deepak is a Third yearite in EEE Department, pursing interest in Coding.
+  url: https://afzalhmd14.github.io 
+  visible: true
+
+- name: Achyut Ramavarapu
+  role: Project Member, Antahsagari
+  dept: Mechanical
+  project: Antahsagari
+  team: Mechanical
+  img: https://scontent-bom1-2.xx.fbcdn.net/v/t1.0-0/p206x206/51325126_295360694512324_4359641673752379392_n.jpg?_nc_cat=104&_nc_eui2=AeF-8xsyxoGKn8njG0-KguzGYSsX07NKuKJGrqqOt1SHiIbTfWY4ET9OXHWCdg0-xkXCWYY5aMaqaO4CEprdBi9IZ3LL7amERI8LXhVGA7cGLg&_nc_ht=scontent-bom1-2.xx&oh=d434e6e71dac48234e11801f932f4554&oe=5D5029C9
+  github: Achyut 
+  bio: Achyut is a Second yearite in Mechanical Department, pursing interest in Mechanical systems.
+  url: https://afzalhmd14.github.io 
+  visible: true
+  
+  
